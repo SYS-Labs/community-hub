@@ -27,7 +27,7 @@ Thirdweb provides a web3 development framework including SDKs in every language,
 
 ## GetBlock
 
-GetBlock is a Blockchain-as-a-Service (BaaS) platform that provides reliable instant API access to full nodes from multiple blockchains.  GetBlock provides shared and dedicated nodes, as well as node clusters.
+[GetBlock](https://getblock.io/) is a Blockchain-as-a-Service (BaaS) platform that provides reliable instant API access to full nodes from multiple blockchains.  GetBlock provides shared and dedicated nodes, as well as node clusters.
 
 ### Supported Networks
 
