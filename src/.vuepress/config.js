@@ -109,7 +109,7 @@ module.exports = {
             iconPrefix: 'fab fa-',
             iconClass: 'color-discord',
             text: 'Discord',
-            link: 'https://discord.gg/rollux',
+            link: 'https://discord.com/invite/syscoin',
           },
           {
             icon: 'github',

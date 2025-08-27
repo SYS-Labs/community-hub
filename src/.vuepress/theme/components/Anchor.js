@@ -57,7 +57,7 @@ export default Vue.extend({
                             "Support"
                         ]),
                         h("div", { class: "anchor-support-links" }, [
-                            h("a", { attrs: { href: "https://discord.gg/rollux", target: "_blank" } }, [
+                            h("a", { attrs: { href: "https://discord.com/invite/syscoin", target: "_blank" } }, [
                                 h("div", [
                                     h("i", { attrs: { class: "fab fa-discord" } }),
                                     " Discord community"
